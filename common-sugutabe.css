@@ -7,7 +7,7 @@ html {
 }
 body {
   color: #333; /* RGB */
-  font-family: "Noto Sans JP";
+  font-family: "Noto Sans JP", sans-serif;
   font-weight: 500;
   font-size: 1.6em;
   line-height: 2.4rem;
@@ -24,7 +24,7 @@ a:hover {
 }
 
 .section-top__image h2,.section-top__lead,.section-reason h2,.section-reason__item-title,.section-reason__item-subtitle,.section-quality h2,.section-farmars h2,.section-farmars__sub-title,.section-set h2,.section-set__sub-title,.section-question h2,.footer small{
-font-family: "はれのそら明朝";	
+font-family: "Kaisei Opti", serif;	
 }
 
 .button{
